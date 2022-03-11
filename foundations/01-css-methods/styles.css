@@ -2,6 +2,9 @@
 
 div {
     color: white;
-    background-color: black;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
   }
   
